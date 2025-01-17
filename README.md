@@ -9,6 +9,5 @@ The Solar System Project is an educational tool designed to help users learn abo
 ## Features
 
 - Interactive 3D model of the solar system
-- Detailed information about each planet and moon
+- Information about each planet
 - Real-time simulation of planetary orbits
-- Educational content and quizzes
